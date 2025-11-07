@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.wallpapersden.com/image/download/serene-nature-hd-pixel-art-sunset_bmhlZ22UmZqaraWkpJRnamtlrWZpaGo.jpg" alt="Mi Banner Personal">
+  <img src="https://raw.githubusercontent.com/QuantumRizo/QuantumRizo/main/halo.png" alt="Mi Banner">
 </p>
 
 <h3 align="center">🛠️ Lenguajes y Herramientas 🛠️</h3>
