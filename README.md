@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/QuantumRizo/QuantumRizo/main/halo.png" alt="Mi Banner">
 </p>
 
-<h3 align="center">🛠️My Tech Stack 🛠️</h3>
+<h3 align="center">My Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -15,12 +15,12 @@
   <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-<h3 align="center">📊 Contributions 📊</h3>
+<h3 align="center">Contributions </h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumRizo&theme=tokyonight" alt="Racha de Contribuciones de QuantumRizo">
 </p>
 
-<h3 align="center">📬 Contact me!</h3>
+<h3 align="center">Contact me!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/felix-rizo-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
