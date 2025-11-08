@@ -21,6 +21,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumRizo&show_icons=true&theme=tokyonight&hide_streak=true&hide_border=true" height="180em">
 </p>
 
+<h3 align="center">Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumRizo&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+</p>
+
+
 <h3 align="center">Now Playing 🎧</h3>
 <p align="center">
   <a href="https://music.apple.com/profile/Devcloud" target="_blank">
