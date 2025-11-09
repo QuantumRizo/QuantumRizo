@@ -15,10 +15,11 @@
   <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Featured Project</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRizo&layout=compact&theme=tokyonight&hide_border=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumRizo&show_icons=true&theme=tokyonight&hide_streak=true&hide_border=true" height="180em">
+  <a href="https://github.com/QuantumRizo/agn-starburst-galaxy-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumRizo&repo=agn-starburst-galaxy-classifier&theme=tokyonight&hide_border=true" alt="AGN–Starburst Galaxy Classifier">
+  </a>
 </p>
 
 <h3 align="center">Contribution Graph</h3>
