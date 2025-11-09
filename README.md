@@ -18,9 +18,15 @@
 <h3 align="center">Featured Project</h3>
 <p align="center">
   <a href="https://github.com/QuantumRizo/agn-starburst-galaxy-classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumRizo&repo=agn-starburst-galaxy-classifier&theme=tokyonight&hide_border=true" alt="AGN–Starburst Galaxy Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumRizo&repo=agn-starburst-galaxy-classifier&theme=tokyonight&hide_border=true">
   </a>
 </p>
+
+<p align="center">
+  A deep learning project that classifies <b>AGN</b> and <b>Starburst galaxies</b> using SDSS data.  
+  Built with <b>Python</b>, <b>TensorFlow</b> and <b>Astrophysical datasets</b>.
+</p>
+
 
 <h3 align="center">Contribution Graph</h3>
 <p align="center">
