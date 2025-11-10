@@ -37,21 +37,6 @@
   </p>
 </div>
 
-
-
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumRizo&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-</p>
-
-
-<h3 align="center">Now Playing 🎧</h3>
-<p align="center">
-  <a href="https://music.apple.com/profile/Devcloud" target="_blank">
-    <img src="https://img.shields.io/badge/Apple%20Music-%23FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="Apple Music">
-  </a>
-</p>
-
 <h3 align="center">Contact me!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/felix-rizo-dev" target="_blank">
