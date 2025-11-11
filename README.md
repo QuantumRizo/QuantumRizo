@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/QuantumRizo/QuantumRizo/main/halo.png" alt="Mi Banner">
-</p>
+## 👋 Hi, I’m **David Rizo**
+
+🎓 **Physicist** → **Software Developer** & **Data Scientist**  
+💡 I love building intelligent systems, data dashboards, and beautiful web apps.
+
+---
+
+### 🧠 Machine Learning Projects
+- 🪐 **Galaxy Classifier** — ML model distinguishing **AGN** and **Starburst** galaxies from spectral FITS data.  
+- 📉 **Telco Churn Prediction** — Predicts customer churn using **TensorFlow** and **Python**.  
+- 🧬 **Brain Tumor Detection** — Deep learning model for MRI classification.
+
+---
+
+### 🌐 Web & Data
+- Built websites for major clients like **Farmacias Similares** and other Mexican businesses.  
+- Created **Power BI** & **Looker** dashboards for **Dongfeng**, **Waldo’s**, and **Farmacias Similares**.  
+
+---
+
+### 🎵 Leadership
+Led the **Coding Program** at **French Woods Festival of the Performing Arts** (Camps 2025–2026).
 
 
 <h3 align="center">My Tech Stack</h3>
@@ -16,26 +35,6 @@
   <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-<h3 align="center">Featured Project</h3>
-
-<div align="center">
-  <a href="https://github.com/QuantumRizo/agn-starburst-galaxy-classifier" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumRizo&repo=agn-starburst-galaxy-classifier&theme=tokyonight&hide_border=true" 
-      alt="AGN–Starburst Galaxy Classifier"
-      style="border-radius: 12px; box-shadow: 0 0 20px rgba(80, 80, 120, 0.3); transition: all 0.3s ease;"
-    />
-  </a>
-  
-  <br><br>
-  
-  <p align="center" style="max-width: 500px; text-align: center; font-size: 15px; line-height: 1.6;">
-    <b>AGN–Starburst Galaxy Classifier</b> is a deep learning project that classifies 
-    <b>Active Galactic Nuclei (AGN)</b> and <b>Starburst galaxies</b> using 
-    <b>SDSS spectroscopic data</b>.  
-    Built with <b>Python</b>, <b>TensorFlow</b>, and <b>astrophysical datasets</b>.
-  </p>
-</div>
 
 <h3 align="center">Contact me!</h3>
 <p align="center">
