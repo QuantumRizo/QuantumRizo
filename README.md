@@ -1,24 +1,24 @@
 ## 👋 Hi, I’m **David Rizo**
 
-🎓 **Physicist** → **Software Developer** & **Data Scientist**  
-💡 I love building intelligent systems, data dashboards, and beautiful web apps.
+**Physicist** → **Software Developer** & **Data Scientist**  
+I love building intelligent systems, data dashboards, and beautiful web apps.
 
 ---
 
-### 🧠 Machine Learning Projects
-- 🪐 **Galaxy Classifier** — ML model distinguishing **AGN** and **Starburst** galaxies from spectral FITS data.  
-- 📉 **Telco Churn Prediction** — Predicts customer churn using **TensorFlow** and **Python**.  
-- 🧬 **Brain Tumor Detection** — Deep learning model for MRI classification.
+###  Machine Learning Projects
+- **Galaxy Classifier** — ML model distinguishing **AGN** and **Starburst** galaxies from spectral FITS data.  
+- **Telco Churn Prediction** — Predicts customer churn using **TensorFlow** and **Python**.  
+- **Brain Tumor Detection** — Deep learning model for MRI classification.
 
 ---
 
-### 🌐 Web & Data
+### Web & Data
 - Built websites for major clients like **Farmacias Similares** and other Mexican businesses.  
 - Created **Power BI** & **Looker** dashboards for **Dongfeng**, **Waldo’s**, and **Farmacias Similares**.  
 
 ---
 
-### 🎵 Leadership
+### Leadership
 Led the **Coding Program** at **French Woods Festival of the Performing Arts** (Camps 2025–2026).
 
 
