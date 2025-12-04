@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **David Rizo**
+## Hi, I’m **David Rizo**
 
 **Physicist** → **Software Developer** & **Data Scientist**  
 I love building intelligent systems, data dashboards, and beautiful web apps.
