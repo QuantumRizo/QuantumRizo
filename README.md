@@ -1,7 +1,8 @@
 ## Hi, I’m **David Rizo**
 
-**Physicist** → **Software Developer** & **Data Scientist**  
-I love building intelligent systems, data dashboards, and beautiful web apps.
+**Physicist** → **Software Developer** & **Data Scientist** I love building intelligent systems, data dashboards, and beautiful web apps.
+
+>  **Check out my portfolio:** [**davidrizo**](https://davidrizo.vercel.app/)
 
 ---
 
@@ -38,6 +39,10 @@ Led the **Coding Program** at **French Woods Festival of the Performing Arts** (
 
 <h3 align="center">Contact me!</h3>
 <p align="center">
+  <a href="https://davidrizo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-davidrizo.vercel.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  
   <a href="https://linkedin.com/in/felix-rizo-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
