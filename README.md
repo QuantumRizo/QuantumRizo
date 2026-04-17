@@ -8,9 +8,9 @@ Featured Projects (SaaS & Architecture)
 
 MedicAdmin — Comprehensive medical management platform. Includes digital clinical records, appointment scheduling, and automated prescription tools.
 
-D-Uñas Management System — Multi-branch SaaS designed for operational optimization. Automates scheduling, inventory control, and communication workflows.
+Muy Muy Beauty House — Multi-branch SaaS designed for operational optimization. Automates scheduling, inventory control, and communication workflows.
 
-System Architecture @ CN — Technical leadership in developing internal software infrastructure, optimizing critical workflows and system scalability.
+System Architecture @ CN @ Central Simi — Technical leadership in developing internal software infrastructure, optimizing critical workflows and system scalability.
 
 Experience and Leadership
 
