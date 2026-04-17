@@ -56,7 +56,7 @@ I specialize in the design and architecture of **scalable SaaS platforms**, **ro
 
 <p align="center">
   <a href="https://davidrizo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-davidrizo.vercel.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-davidrizo.dev-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/felix-rizo-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
